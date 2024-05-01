@@ -11,12 +11,6 @@
 * Mongodb
 * Google Maps Api
 
-## Installation - yarn
-### Prerequisites
-To run this project in the development mode, you'll need to have a basic environment to run a React-Native App, that can be found [here](https://reactnative.dev/docs/environment-setup).
-
-Also, you'll need to the servers running locally on your machine with the mock data. You can find the [Socket.io Server here](https://github.com/daniel30-07/taxi-app-socket.io). and the [Express Server here](https://github.com/daniel30-07/taxi-app-express-backend.git)
-
 
 - [React-Native](https://facebook.github.io/react-native/) - Build the native app using JavaScript and React
 - [React-Navigation](https://reactnavigation.org/docs/en/getting-started.html) - Router
@@ -30,10 +24,6 @@ Also, you'll need to the servers running locally on your machine with the mock d
 - [Babel](https://babeljs.io/) - JavaScript Compiler
 - [@mauron85](https://www.npmjs.com/package/@mauron85/react-native-background-geolocation) - React-native background geolocation
 - [React-Native-Linear-Gradient](https://github.com/react-native-community/react-native-linear-gradient) - Gradient Styles
-
-## Contributing
-
-You can send how many PR's do you want, I'll be glad to analyse and accept them! And if you have any question about the project...
 
 Email-me: ali7847khan@gmail.com
 
